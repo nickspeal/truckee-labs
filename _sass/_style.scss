@@ -1,5 +1,9 @@
+#main {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
 #container {
-    width: 95%;
     margin: 4em auto;
     height: auto;
 }
@@ -329,4 +333,10 @@ table {
 // Active page number in pagination
 .active {
     font-weight: 700;
+}
+
+
+.about {
+  text-align: center;
+  font-style: italic;
 }
